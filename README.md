@@ -29,11 +29,16 @@
   <img src="https://img.shields.io/badge/Face--API.js-%23FFC107.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Face-API.js"/>
 </div>
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTc1bngwa211em5kbzU2ZXBpeGQ1YWpoYXRoN212OHVyOWc3dmdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
+</div>
+
 ### 📈 GitHub Stats & Activity 📈
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckyuday&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="luckyuday's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyuday&layout=compact&theme=dracula&hide_border=true" alt="luckyuday's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luckyuday&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="100%" alt="luckyuday's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyuday&layout=compact&theme=dracula&hide_border=true"  alt="luckyuday's Top Languages" />
   
   <br><br>
 
@@ -45,6 +50,10 @@
 </div>
 
 <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTc1bngwa211em5kbzU2ZXBpeGQ1YWpoYXRoN212OHVyOWc3dmdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=39FF14&center=true&vCenter=true&lines=Building+Dynamic+Web+Apps...;Learning+Cutting-Edge+Tech...;Solving+Complex+Problems...;Crafting+Elegant+Solutions...;Deploying+Cool+Features...;Always+Improving...;Ready+for+the+Next+Challenge" alt="What I'm Typing About" />
 </div>
 
@@ -52,8 +61,11 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw2Y3YyanRwa3phc2szZnU5YnQ0YWY0a2xoMmJjbXlvNndiM2U5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
 </div>
 
+
+
+
 <div align="center">
-  <h2><span style="color: #FF79C6;">Connect</span> & <span style="color: #8BE9FD;">Collaborate</span></h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Aldrich&weight=600&size=36&color=8BE9FD&center=true&vCenter=true&width=500&height=60&lines=Connect+%26+Collaborate" alt="Connect & Collaborate" />
   <p>Seeking synergistic partnerships. Let's build something cool together.</p>
   <p>
     <a href="https://www.linkedin.com/in/uday-kumar-verma-9465ba218/" target="_blank">
