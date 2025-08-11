@@ -32,10 +32,16 @@
 ### 📈 GitHub Stats & Activity 📈
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckyuday&show_icons=true&theme=dracula&count_private=true" alt="luckyuday's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luckyuday&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="luckyuday's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyuday&layout=compact&theme=dracula&hide_border=true" alt="luckyuday's Top Languages" />
+  
+  <br><br>
+
   <img src="https://streak-stats.demolab.com/?user=luckyuday&theme=dracula&hide_border=true" alt="luckyuday's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyuday&layout=compact&theme=dracula&hide_title=true" alt="luckyuday's Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyuday&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="luckyuday's Activity Graph"/>
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyuday&theme=dracula&hide_border=true&area=true" alt="luckyuday's Activity Graph"/>
 </div>
 
 <div align="center">
@@ -43,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw2Y3YyanRwa3phc2szZnU5YnQ0YWY0a2xoMmJjbXlvNndiM2U5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw2Y3YyanRwa3phc2szZnU5YnQ0YWY0a2xoMmJjbXlvNndiM2U5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
 </div>
 
 <div align="center">
