@@ -8,9 +8,7 @@
   <p><i>A full-stack developer forging interactive realities from code and exploring the frontiers of web technology.</i></p>
 </div>
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTc1bngwa211em5kbzU2ZXBpeGQ1YWpoYXRoN212OHVyOWc3dmdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
-</div>
+
 
 ### ✨ Core Technologies & Arsenal ✨
 
@@ -29,9 +27,7 @@
   <img src="https://img.shields.io/badge/Face--API.js-%23FFC107.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Face-API.js"/>
 </div>
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTc1bngwa211em5kbzU2ZXBpeGQ1YWpoYXRoN212OHVyOWc3dmdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
-</div>
+
 
 ### 📈 GitHub Stats & Activity 📈
 
